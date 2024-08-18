@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+easyocr==1.7.1
+numpy
+pillow
+pywin32==306
+googletrans==3.1.0a0
